@@ -19,7 +19,7 @@ container.className = 'container grow';
 
 
     setTimeout(() => {
-        text.innerText = 'Hold';
+        text.innerText = 'hold';
 
 
 
